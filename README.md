@@ -1,7 +1,7 @@
-# Flight Prediction Project ReadMe
+# Flight Prediction Project
 
 ## Objectives
-To create a model that predicts arrival delay for flights based on information that we have access to.
+To create a model to predict arrival delay for flights for the first week of January 2020.
 
 &nbsp;
 ## Process
